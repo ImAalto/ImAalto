@@ -4,4 +4,5 @@
 [<img alt="mangalist" src="https://img.shields.io/badge/MAL-https%3A%2F%2Fmyanimelist.net%2Fmangalist%2FQM7-blue" />](https://myanimelist.net/mangalist/QM7)
 ### About Me
  - Currently learning Kotlin.
- - Yuri/Yelan booru projects in the future.
+ - Yelan and/or Yuri projects incoming.
+ 
